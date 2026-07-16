@@ -1,14 +1,204 @@
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:rajputanshu312@gmail.com) 
+<div align="center">
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=anshurajput312&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=anshurajput312&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=anshurajput312&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:6D28D9,100:A855F7&height=220&section=header&text=ANSHU%20RAJPUT&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
+
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Turning+Curiosity+Into+Code;Learning+by+Building+Real+Projects;MCA+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
+</a>
+
+<br/>
+
+![MCA Student](https://img.shields.io/badge/MCA-Student%20%F0%9F%8E%93-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
+![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
+
+<br/>
+
+<a href="https://www.linkedin.com/in/anshu-rajput-956103295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:rajputanshu312@gmail.com">
+  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/anshurajput312" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=anshurajput312&style=flat-square&color=8b5cf6&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/anshurajput312?style=flat-square&color=7c3aed&label=Followers&labelColor=1e1033)
+![Stars](https://img.shields.io/github/stars/anshurajput312?style=flat-square&color=a855f7&label=Total+Stars&labelColor=1e1033)
+
+</div>
 
 ---
-[![](https://komarev.com/ghpvc/?username=anshurajput312&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🧬 About Me
+
+<div align="center">
+<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-1e1033?style=flat-square&color=6D28D9" />
+<img src="https://img.shields.io/badge/-Problem%20Solver-1e1033?style=flat-square&color=7C3AED" />
+<img src="https://img.shields.io/badge/-Lifelong%20Learner-1e1033?style=flat-square&color=8B5CF6" />
+</div>
+
+<br/>
+
+Full Stack Developer who loves learning new technologies and building self-made projects to solve real-world problems hands-on. This approach keeps me curious, adaptable, and always exploring what's next.
+
+**🎯 Open To:**
+
+- Full Stack Developer opportunities
+- Internships & entry-level Software Engineering roles
+- Collaborative open-source projects
+- Learning-driven, hands-on engineering work
+
+---
+
+## 💡 Skills
+
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-1e1033?style=flat-square&color=6D28D9)
+![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1e1033?style=flat-square&color=7C3AED)
+![Version Control](https://img.shields.io/badge/-Version%20Control-1e1033?style=flat-square&color=8B5CF6)
+
+---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js)
+
+**Frontend**
+
+![HTML5](https://skillicons.dev/icons?i=html) ![CSS3](https://skillicons.dev/icons?i=css) ![JavaScript](https://skillicons.dev/icons?i=js)
+
+**Backend & Databases**
+
+![Node.js](https://skillicons.dev/icons?i=nodejs) ![MongoDB](https://skillicons.dev/icons?i=mongodb) ![MySQL](https://skillicons.dev/icons?i=mysql) ![PostgreSQL](https://skillicons.dev/icons?i=postgres)
+
+**Cloud, DevOps & Tools**
+
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Canva](https://skillicons.dev/icons?i=canva)
+
+---
+
+## 🎓 Education
+
+<div align="center">
+
+| Degree | Status |
+|---|---|
+| **Master of Computer Applications (MCA)** | 🎓 Currently Pursuing |
+
+</div>
+
+---
+
+## 💻 Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/u/gpg7ZCmVpr/" target="_blank">
+  <img src="https://img.shields.io/badge/LeetCode-Profile-1e1033?style=for-the-badge&logo=leetcode&logoColor=FFA116" />
+</a>
+<a href="https://www.hackerrank.com/profile/rajputanshu312" target="_blank">
+  <img src="https://img.shields.io/badge/HackerRank-Profile-1e1033?style=for-the-badge&logo=hackerrank&logoColor=00EA64" />
+</a>
+
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshurajput312&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7" width="49%" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshurajput312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="49%" />
+
+</div>
+
+---
+
+## 🏅 GitHub Trophies
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=anshurajput312&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshurajput312&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=E9D5FF" width="100%" />
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/anshurajput312/anshurajput312/output/github-contribution-grid-snake-dark.svg" width="100%" />
+
+</div>
+
+---
+
+## 🔭 Current Focus
+
+```yaml
+Learning:
+  - Full Stack Development (MERN & related tech)
+  - Data Structures & Algorithms
+  - Cloud Fundamentals (AWS, Azure)
+
+Building:
+  - Self-initiated projects to practice new technologies hands-on
+
+Exploring:
+  - Modern web frameworks and tools
+  - Database design & optimization
+
+Open To:
+  - Full Stack Developer roles
+  - Internship opportunities
+  - Collaborative & open-source projects
+```
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+<a href="mailto:rajputanshu312@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/anshu-rajput-956103295/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://github.com/anshurajput312" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+*"Learning by building is the fastest way to truly understand technology."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:0F0524&height=150&section=footer" width="100%"/>
+
+</div>
