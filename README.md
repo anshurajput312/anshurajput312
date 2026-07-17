@@ -109,18 +109,20 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-## 📊 GitHub Analytics
+# 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=Abhinaav2003&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=Abhinaav2003&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
 
-<div align="center">
+---
 
-<img src="https://github-readme-stats.vercel.app/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&icon_color=8B5CF6&text_color=C9D1D9&ring_color=7C3AED" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=anshurajput312&theme=tokyonight&hide_border=true&background=0D1117&ring=7C3AED&fire=A855F7&currStreakLabel=A855F7" width="49%" />
+# 📈 Coding Activity
 
-<br/>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react-dark&hide_border=true&area=true"/>
+</p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anshurajput312&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A855F7&text_color=C9D1D9" width="49%" />
-
-</div>
 
 ---
 
