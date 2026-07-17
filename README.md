@@ -4,7 +4,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ANSHU%20RAJPUT&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=18" width="100%"/>
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Turning+Curiosity+Into+Code;Learning+by+Building+Real+Projects;MCA+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Turning+Curiosity+Into+Code;Learning+by+Building+Real+Projects;MCA+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -14,12 +14,6 @@
 ---
 
 ## 🧬 About Me
-
-<div align="center">
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-1e1033?style=flat-square&color=6D28D9" />
-<img src="https://img.shields.io/badge/-Problem%20Solver-1e1033?style=flat-square&color=7C3AED" />
-<img src="https://img.shields.io/badge/-Lifelong%20Learner-1e1033?style=flat-square&color=8B5CF6" />
-</div>
 
 <br/>
 
