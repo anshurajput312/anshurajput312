@@ -86,7 +86,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 # 📊 Stats
 
  <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshurajput312&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
