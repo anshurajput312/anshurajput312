@@ -1,17 +1,23 @@
 <a id="top"></a>
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=220&section=header&text=ANSHU%20RAJPUT&fontSize=60&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=&descAlignY=58&descSize=18" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Anshu%20Rajput&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=38&desc=&descAlignY=58&descAlign=50" width="100%" />
+
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=650&lines=Full+Stack+Developer;Turning+Curiosity+Into+Code;Learning+by+Building+Real+Projects;MCA+Student+%7C+Lifelong+Learner" alt="Typing SVG" />
 </a>
 
-<br/>
+<p align="center">
+  <a href="https://www.linkedin.com/in/anshu-rajput-956103295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://stackoverflow.com/users/32947647/anshu-rajput"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+  <img src="https://komarev.com/ghpvc/?username=anshurajput312&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
+</p>
+
+---
+
 
 </div>
-
-
 
 # 🧬 About Me
 
@@ -63,6 +69,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 | Degree | Status |
 |---|---|
 | **Master of Computer Applications (MCA)** | 🎓 Currently Pursuing |
+| **Bachelor of Computer Applications (BCA)** | 🎓 2022-2025 |
 
 </div>
 
@@ -83,7 +90,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-# 📊 leet Stats
+# 📊 Leet Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=light&font=Noto%20Sans%20Lepcha)
 
@@ -127,9 +134,9 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 <div align="center">
 
-*"Learning by building is the fastest way to truly understand technology."*
+*"💻Learning by building is the fastest way to truly understand technology."*
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:0F0524&height=150&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer" width="100%"/>
 
 </div>
 
