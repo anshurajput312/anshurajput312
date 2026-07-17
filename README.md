@@ -134,13 +134,22 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-## 🐍 Contribution Snake
-
+<!-- Snake Game Repo View -->
+# 🐍 Contribution Snake
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/anshurajput312/anshurajput312/output/github-contribution-grid-snake-dark.svg" width="100%" />
-
+    
+  ![snake gif](https://github.com/anshurajput312/anshurajput312/blob/output/github-snake.svg)
 </div>
+
+---
+
+
+<!-- Paceman Game Repo View -->
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/anshurajput312/anshurajput312/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/anshurajput312/anshurajput312/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/anshurajput312/anshurajput312/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
 
 ---
 
