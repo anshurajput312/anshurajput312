@@ -112,25 +112,6 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-
-# 📫 Connect With Me
-
-<div align="center">
-
-<a href="mailto:rajputanshu312@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-6D28D9?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://www.linkedin.com/in/anshu-rajput-956103295/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-4C1D95?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="https://github.com/anshurajput312" target="_blank">
-<img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-</div>
-
----
-
 <div align="center">
 
 *"Learning by building is the fastest way to truly understand technology."*
