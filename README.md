@@ -83,10 +83,19 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-# 📊 Stats
+# 📊 leet Stats
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=light&font=Noto%20Sans%20Lepcha)
 
+---
+
+# 📊 GitHub Stats:
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.shion.dev/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+  <img width="48%" src="https://streak-stats.demolab.com/?user=anshurajput312&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
 # 📈 Coding Activity
 
 <p align="center">
