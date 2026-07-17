@@ -85,26 +85,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 # 📊 Stats
 
- <p align="center">
-  <img width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=anshurajput312&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img
-    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=anshurajput312&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
-    alt="Top Languages"
-    width="49%"
-    height="300"
-  />
-  <img
-    src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap"
-    alt="LeetCode Stats"
-    width="50%"
-    height="200"
-  />
- 
----
+![LeetCode Stats](https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=light&font=Noto%20Sans%20Lepcha)
 
 # 📈 Coding Activity
 
