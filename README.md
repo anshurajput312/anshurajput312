@@ -54,14 +54,6 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-## 💡 Skills
-
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-1e1033?style=flat-square&color=6D28D9)
-![Responsive Web Design](https://img.shields.io/badge/-Responsive%20Web%20Design-1e1033?style=flat-square&color=7C3AED)
-![Version Control](https://img.shields.io/badge/-Version%20Control-1e1033?style=flat-square&color=8B5CF6)
-
----
-
 ## 🛠️ Tech Stack
 
 **Languages**
@@ -146,28 +138,6 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-## 🔭 Current Focus
-
-```yaml
-Learning:
-  - Full Stack Development (MERN & related tech)
-  - Data Structures & Algorithms
-  - Cloud Fundamentals (AWS, Azure)
-
-Building:
-  - Self-initiated projects to practice new technologies hands-on
-
-Exploring:
-  - Modern web frameworks and tools
-  - Database design & optimization
-
-Open To:
-  - Full Stack Developer roles
-  - Internship opportunities
-  - Collaborative & open-source projects
-```
-
----
 
 ## 📫 Connect With Me
 
