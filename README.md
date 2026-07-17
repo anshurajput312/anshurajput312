@@ -91,9 +91,18 @@ Full Stack Developer who loves learning new technologies and building self-made 
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap" alt="Contribution Graph" />
-</p>
+  <img
+    src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true"
+    alt="Top Languages"
+    width="49%"
+    height="200"
+  />
+  <img
+    src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap"
+    alt="LeetCode Stats"
+    width="49%"
+    height="200"
+  />
  
 
 # 📊 GitHub Stats:
