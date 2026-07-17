@@ -34,14 +34,6 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-# 🌐 Socials:
-<p align="left">
-<a href=https://www.linkedin.com/in/anshu-rajput-956103295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anshurajput" height="50" width="50" /></a>
-<a href="https://stackoverflow.com/users/32947647/anshu-rajput" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="20592277" height="50" width="50" /></a>
-
-
----
-
 # 🛠️ Tech Stack
 
 **Languages**
@@ -90,7 +82,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-# 📊 Leet Stats:
+# 📊 LeetCode Stats:
 
 ![LeetCode Stats](https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=light&font=Noto%20Sans%20Lepcha)
 
@@ -100,18 +92,10 @@ Full Stack Developer who loves learning new technologies and building self-made 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.shion.dev/api?username=anshurajput312&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://streak-stats.demolab.com/?user=anshurajput312&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshurajput312&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 ---
-# 📈 Coding Activity
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshurajput312&theme=react-dark&hide_border=true&area=true"/>
-</p>
-
-
----
-
 
 <!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
@@ -121,7 +105,6 @@ Full Stack Developer who loves learning new technologies and building self-made 
 </div>
 
 ---
-
 
 <!-- Paceman Game Repo View -->
 <picture data-importer="pacman">
