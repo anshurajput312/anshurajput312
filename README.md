@@ -124,16 +124,6 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 ---
 
-## 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=anshurajput312&theme=discord&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" />
-
-</div>
-
----
-
 ## 📈 Contribution Activity
 
 <div align="center">
