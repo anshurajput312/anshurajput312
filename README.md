@@ -10,7 +10,7 @@
 
 ## 🧬 About Me
 
-<div align="center">
+<div align="left">
 <img src="https://img.shields.io/badge/-Full%20Stack%20Developer-1e1033?style=flat-square&color=6D28D9" />
 <img src="https://img.shields.io/badge/-Problem%20Solver-1e1033?style=flat-square&color=7C3AED" />
 <img src="https://img.shields.io/badge/-Lifelong%20Learner-1e1033?style=flat-square&color=8B5CF6" />
