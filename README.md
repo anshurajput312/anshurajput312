@@ -85,25 +85,16 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 # 💻 Leet code 
 
-<div align="center">
-  <img
-    src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap"
-    alt="LeetCode Stats"
-    width="600"
-    height="200"
-  />
-  <p align="center">
+ <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=avikeid2007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=avikeid2007&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=avikeid2007&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  <img width="48%" src="https://github-readme-activity-graph.vercel.app/graph?username=avikeid2007&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img width="48%" src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap" alt="Contribution Graph" />
 </p>
-
----
-</div>
+ 
 
 # 📊 GitHub Stats:
 <p align="center">
