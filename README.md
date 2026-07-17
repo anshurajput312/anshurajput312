@@ -8,31 +8,6 @@
 
 <br/>
 
-![MCA Student](https://img.shields.io/badge/MCA-Student%20%F0%9F%8E%93-6D28D9?style=flat-square&logo=googlescholar&logoColor=white)
-![Location](https://img.shields.io/badge/Location-New%20Delhi%2C%20India-4C1D95?style=flat-square&logo=googlemaps&logoColor=white)
-
-<br/>
-
-<a href="https://www.linkedin.com/in/anshu-rajput-956103295/" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-6D28D9?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-<a href="mailto:rajputanshu312@gmail.com">
-  <img src="https://img.shields.io/badge/Email-4C1D95?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
-<a href="https://github.com/anshurajput312" target="_blank">
-  <img src="https://img.shields.io/badge/GitHub-1E1033?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=anshurajput312&style=flat-square&color=8b5cf6&label=Profile+Views)
-![Followers](https://img.shields.io/github/followers/anshurajput312?style=flat-square&color=7c3aed&label=Followers&labelColor=1e1033)
-![Stars](https://img.shields.io/github/stars/anshurajput312?style=flat-square&color=a855f7&label=Total+Stars&labelColor=1e1033)
-
-</div>
-
----
-
 ## 🧬 About Me
 
 <div align="center">
