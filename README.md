@@ -66,7 +66,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 **Languages**
 
-![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![JavaScript](https://skillicons.dev/icons?i=js)
+![C](https://skillicons.dev/icons?i=c) ![C++](https://skillicons.dev/icons?i=cpp) ![C#](https://skillicons.dev/icons?i=cs) ![Java](https://skillicons.dev/icons?i=java) ![Python](https://skillicons.dev/icons?i=python)
 
 **Frontend**
 
@@ -78,7 +78,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 **Cloud, DevOps & Tools**
 
-![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Canva](https://skillicons.dev/icons?i=canva)
+![AWS](https://skillicons.dev/icons?i=aws) ![Azure](https://skillicons.dev/icons?i=azure) ![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Canva](https://skillicons.dev/icons?i=canva) ![Postman](https://skillicons.dev/icons?i=postman) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Jupyter](https://skillicons.dev/icons?i=jupyter)
 
 ---
 
