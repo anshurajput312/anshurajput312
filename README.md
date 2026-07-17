@@ -90,7 +90,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 <img
   src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap"
   alt="LeetCode Stats"
-  width="50%"
+  width="100%" 
 />
 
 </div>
