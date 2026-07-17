@@ -8,15 +8,28 @@
 
 <br/>
 
-## 🧬 About Me
+# 👋 About Me:
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=header&text=&animation=fadeIn" width="100%"/>
 
-<div align="left">
-<img src="https://img.shields.io/badge/-Full%20Stack%20Developer-1e1033?style=flat-square&color=6D28D9" />
-<img src="https://img.shields.io/badge/-Problem%20Solver-1e1033?style=flat-square&color=7C3AED" />
-<img src="https://img.shields.io/badge/-Lifelong%20Learner-1e1033?style=flat-square&color=8B5CF6" />
-</div>
 
-<br/>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=84&duration=2800&pause=1200&color=A78BFA&center=true&vCenter=true&width=1400&height=150&lines=Abhinav+Tiwari;Java+Full+Stack+Developer"
+    alt="Typing SVG"
+  />
+</p>
+
+<br>
+
+* 🎓 MCA Student
+* 💻 Aspiring Full Stack Java Developer
+* 🌱 Learning Java, Spring Boot, React, SQL & DSA
+* 🚀 Passionate about Web Development and AI
+* 📚 Always learning new technologies
+* 🎯 Open to internships and collaborative projects
+* 📫 How to reach me **abhinavtiwari.tech@gmail.com**
+
+<br>
 
 Full Stack Developer who loves learning new technologies and building self-made projects to solve real-world problems hands-on. This approach keeps me curious, adaptable, and always exploring what's next.
 
