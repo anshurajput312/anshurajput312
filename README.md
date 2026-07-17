@@ -30,8 +30,9 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 # 🌐 Socials:
 <p align="left">
-<a href="" target="blank"><img align="center" src="https://www.linkedin.com/in/anshu-rajput-956103295/" alt="abhinavtiwari" height="50" width="50" /></a>
+<a href=https://www.linkedin.com/in/anshu-rajput-956103295/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="anshurajput" height="50" width="50" /></a>
 <a href="https://stackoverflow.com/users/20592277" target="blank"><img align="center" src="https://skillicons.dev/icons?i=stackoverflow" alt="20592277" height="50" width="50" /></a>
+
 
 ---
 
