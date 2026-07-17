@@ -78,7 +78,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 **Cloud, DevOps & Tools**
 
-![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Canva](https://skillicons.dev/icons?i=canva) ![Postman](https://skillicons.dev/icons?i=postman) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Render](https://skillicons.dev/icons?i=render) ![Jupyter Notebook](https://skillicons.dev/icons?i=jupyter)
+![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Canva](https://skillicons.dev/icons?i=canva) ![Postman](https://skillicons.dev/icons?i=postman) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![VS Code](https://skillicons.dev/icons?i=vscode) ![Render](https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=white) ![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
