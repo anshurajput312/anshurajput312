@@ -120,21 +120,12 @@ Full Stack Developer who loves learning new technologies and building self-made 
 # 📈 Coding Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Abhinaav2003&theme=react-dark&hide_border=true&area=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=anshurajput312&theme=react-dark&hide_border=true&area=true"/>
 </p>
 
 
 ---
 
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=anshurajput312&theme=react-dark&hide_border=true&bg_color=0D1117&color=A855F7&line=8B5CF6&point=E9D5FF" width="100%" />
-
-</div>
-
----
 
 <!-- Snake Game Repo View -->
 # 🐍 Contribution Snake
