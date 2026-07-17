@@ -1,3 +1,4 @@
+<a id="top"></a>
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F0524,50:6D28D9,100:A855F7&height=220&section=header&text=ANSHU%20RAJPUT&fontSize=60&fontColor=E9D5FF&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=58&descSize=18" width="100%"/>
@@ -143,3 +144,9 @@ Full Stack Developer who loves learning new technologies and building self-made 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:A855F7,50:6D28D9,100:0F0524&height=150&section=footer" width="100%"/>
 
 </div>
+
+<p align="center">
+  <a href="#top">
+    <img src="https://img.shields.io/badge/⬆%20Back%20to%20Top-6C63FF?style=for-the-badge" alt="Back to Top"/>
+  </a>
+</p>
