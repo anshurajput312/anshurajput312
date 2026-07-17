@@ -78,7 +78,7 @@ Full Stack Developer who loves learning new technologies and building self-made 
 
 **Cloud, DevOps & Tools**
 
-![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Canva](https://skillicons.dev/icons?i=canva) ![Postman](https://skillicons.dev/icons?i=postman) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![VS Code](https://skillicons.dev/icons?i=vscode) <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=render&logoColor=white" width="48" height="48"/> <img src="https://img.shields.io/badge/-F37626?style=flat-square&logo=jupyter&logoColor=white" width="48" height="48"/>
+![Anaconda](https://skillicons.dev/icons?i=anaconda) ![Git](https://skillicons.dev/icons?i=git) ![GitHub](https://skillicons.dev/icons?i=github) ![Postman](https://skillicons.dev/icons?i=postman) ![IntelliJ IDEA](https://skillicons.dev/icons?i=idea) ![VS Code](https://skillicons.dev/icons?i=vscode) <img src="https://img.shields.io/badge/-000000?style=flat-square&logo=render&logoColor=white" width="48" height="48"/> <img src="https://img.shields.io/badge/-F37626?style=flat-square&logo=jupyter&logoColor=white" width="48" height="48"/>
 
 ---
 
