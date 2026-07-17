@@ -86,13 +86,12 @@ Full Stack Developer who loves learning new technologies and building self-made 
 # 💻 Leet code 
 
 <div align="center">
-
-<img
-  src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap"
-  alt="LeetCode Stats"
-  width="100%" 
-/>
-
+  <img
+    src="https://leetcard.jacoblin.cool/gpg7ZCmVpr?theme=dark&font=Fira%20Code&ext=heatmap"
+    alt="LeetCode Stats"
+    width="800"
+    height="300"
+  />
 </div>
 
 # 📊 GitHub Stats:
