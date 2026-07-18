@@ -11,8 +11,9 @@
 <p align="center">
  <a href="https://www.linkedin.com/in/anshu-rajput-956103295/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
  <a href="https://x.com/Rajputanshu312"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
- <a href="https://stackoverflow.com/users/32947647/anshu-rajput"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
  <a href="mailto:rajputanshu312@gmail.com"><img src="https://img.shields.io/badge/EMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+ <a href="https://stackoverflow.com/users/32947647/anshu-rajput"><img src="https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white" alt="StackOverflow" /></a>
+ 
 </p>
 
 <img src="https://komarev.com/ghpvc/?username=anshurajput312&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile views" />
